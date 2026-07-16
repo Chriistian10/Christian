@@ -1,4 +1,4 @@
-# Christian
+# Calculadora de IMC
 calculadora de IMC
 import java.util.Locale;
 import java.util.Scanner;
